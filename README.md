@@ -1,3 +1,6 @@
+Portable Git 1.8.3
+https://code.google.com/p/msysgit/downloads/list?can=3
+
 Create a new repository on the command line
 ----------------------------------------------------------------
 touch README.md
