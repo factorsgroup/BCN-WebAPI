@@ -46,10 +46,10 @@ Permission denied (publickey).
 
 SOLUTION:
 ---------
-ssekhon@BRIG-100453 /
+ssekhon@<Computer-Name> /
 $ cd bin
 
-ssekhon@BRIG-100453 /bin
+ssekhon@<Computer-Name> /bin
 $ ssh-keygen
 
 Generating public/private rsa key pair.
@@ -63,7 +63,7 @@ e7:f5:8f:23:dc:56:ef:b7:ae:85:be:b8:5c:62:ca:04 ssekhon@<Computer-Name>
 
 Make sure you have a key and SSH is using it
 ------------------------------------------------------------------
-ssekhon@BRIG-100453 /BCN-WebAPI (master)
+ssekhon@<Computer-Name> /BCN-WebAPI (master)
 $ ssh-add -l
 Could not open a connection to your authentication agent.
 
